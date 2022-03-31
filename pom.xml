@@ -8,7 +8,7 @@
   <name>SpringAngularJSCRUDRESTValidations Maven Webapp</name>
   <url>http://maven.apache.org</url>
 	<properties>
-		<org.springframework-version>4.0.3.RELEASE</org.springframework-version>
+		<org.springframework-version>5.3.18</org.springframework-version>
 		<hibernate.version>4.3.5.Final</hibernate.version>
 		<json.version>20140107</json.version>
 		<jackson.version>1.9.10</jackson.version>
